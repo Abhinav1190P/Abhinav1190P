@@ -189,5 +189,3 @@ Secure authentication, real-time messaging, and Cloudinary/Zeegocloud integratio
 ---
 
 > **Setup notes for the dynamic pieces:** this repo ships `.github/workflows/metrics.yml` and `.github/workflows/snake.yml`. Enable Actions on the repo, add a `METRICS_TOKEN` secret for the metrics workflow (Settings → Secrets → Actions), and both will start committing fresh SVGs on their schedule — the embeds above will pick them up automatically once they exist.
-
-<p>pandeysandeep1190@gmail.com · +91 87998 17029 · Bengaluru, India</p>
